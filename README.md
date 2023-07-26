@@ -10,7 +10,7 @@
 
 
 > ## Features
-> - [x] Glass Morphism + Gradient Design using tailwind</li>
+> - [x] Glass Morphism and Gradient Design using tailwind</li>
 > - [x] Smart Contracts seamless integeration using hardhat</li>
 > - [x] Using MetaMask for transactions
 > - [x] Full fledged blockchain application made with solidity
